@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+    
+}
+
+.titulo{
+    color: black;
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 40%;
+    margin: 1.9%;
+    padding: 1.2%;
+}
+
+.img{
+    display: block;
+    margin-left: 80px;
+    margin-right: auto;
+    width: auto;
+}
+
+.texto{
+    color: black;
+    
+    text-align: center;
+ 
+    margin: 1.9%;
+    padding: 1.5%;
+}
